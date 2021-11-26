@@ -30,7 +30,7 @@ This setting enables the AWS CLI v2 to load JSON events from a file, matching th
 # Setup
 Download or clone this repository.
 
-    $ git clone https://github.com/awsdocs/aws-lambda-developer-guide.git
+    $ git clone https://github.com/marko-xrite/aws-lambda-developer-guide/tree/main/sample-apps/nodejs-apig
     $ cd aws-lambda-developer-guide/sample-apps/nodejs-apig
 
 To create a new bucket for deployment artifacts, run `1-create-bucket.sh`.
