@@ -23,7 +23,7 @@ var formatResponse = function(body){
     },
     "isBase64Encoded": false,
     "multiValueHeaders": { 
-      "X-Custom-Header": ["My value", "My other value"],
+      "X-Custom-Header": ["Topaz 1.0", "Topaz 2.0"],
     },
     "body": body
   }
